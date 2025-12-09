@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "銀河鉄道999",
+  "base_artist": "GODIEGO",
+  "createdAt": "2025-12-09T16:44:04.415373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": true,
+      "path": "select/01_銀河鉄道999_ゴダイゴ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "銀河鉄道999",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/02_銀河鉄道999_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "銀河鉄道999",
+      "artist": "EXILE",
+      "has_synced": false,
+      "path": "select/03_銀河鉄道999_EXILE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "銀河鉄道999",
+      "artist": "Mitsuko Horie",
+      "has_synced": true,
+      "path": "select/04_銀河鉄道999_Mitsuko_Horie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "銀河鉄道999 [ORT]",
+      "artist": "Horie, Mitsuko",
+      "has_synced": true,
+      "path": "select/05_銀河鉄道999_[ORT]_Horie,_Mitsuko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "銀河鉄道999",
+      "artist": "ANIME THAT JAZZ",
+      "has_synced": false,
+      "path": "select/06_銀河鉄道999_ANIME_THAT_JAZZ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "銀河鉄道999 - The Galaxy Express 999",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/07_銀河鉄道999_-_The_Galaxy_Express_999_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "銀河鉄道999(The Galaxy Express 999)",
+      "artist": "ゴダイゴ",
+      "has_synced": true,
+      "path": "select/08_銀河鉄道999(The_Galaxy_Express_999)_ゴダイゴ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "銀河鉄道999",
+      "artist": "EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/09_銀河鉄道999_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "銀河鉄道999 -House mix-",
+      "artist": "EXILE",
+      "has_synced": true,
+      "path": "select/10_銀河鉄道999_-House_mix-_EXILE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "銀河鉄道999",
+      "artist": "Rasmus Faber",
+      "has_synced": true,
+      "path": "select/11_銀河鉄道999_Rasmus_Faber.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "銀河鉄道999 feat. VERBAL",
+      "artist": "EXILE",
+      "has_synced": false,
+      "path": "select/12_銀河鉄道999_feat._VERBAL_EXILE.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "銀河鉄道999",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/13_銀河鉄道999_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "銀河鉄道999 (English Version)",
+      "artist": "ゴダイゴ",
+      "has_synced": true,
+      "path": "select/14_銀河鉄道999_(English_Version)_ゴダイゴ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "銀河鉄道999 (EXILE CATCHY BEST) - The Galaxy Express 999 (EXILE CATCHY BEST)",
+      "artist": "EXILE feat.VERBAL (m-flo)",
+      "has_synced": false,
+      "path": "select/15_銀河鉄道999_(EXILE_CATCHY_BEST)_-_The_Galaxy_Express_999_(EXILE_CATCHY_BEST)_EXILE_feat.VERBAL_(m-flo).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "銀河鉄道999",
+      "artist": "Godiego",
+      "has_synced": false,
+      "path": "select/16_銀河鉄道999_Godiego.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": true,
+      "path": "select/17_銀河鉄道999_ゴダイゴ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_01_銀河鉄道999_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_02_銀河鉄道999_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_03_銀河鉄道999_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_04_銀河鉄道999_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_05_銀河鉄道999_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_06_銀河鉄道999_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_07_銀河鉄道999_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_08_銀河鉄道999_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_09_銀河鉄道999_ゴダイゴ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "銀河鉄道999",
+      "artist": "ゴダイゴ",
+      "has_synced": false,
+      "path": "select/pl_10_銀河鉄道999_ゴダイゴ.txt"
+    }
+  ]
+}
